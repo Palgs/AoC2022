@@ -1,0 +1,16 @@
+C:\Develop\shizngiggles\AoC22\Day1\bin\Debug\net7.0\Day1.exe
+C:\Develop\shizngiggles\AoC22\Day1\bin\Debug\net7.0\Day1.deps.json
+C:\Develop\shizngiggles\AoC22\Day1\bin\Debug\net7.0\Day1.runtimeconfig.json
+C:\Develop\shizngiggles\AoC22\Day1\bin\Debug\net7.0\Day1.dll
+C:\Develop\shizngiggles\AoC22\Day1\bin\Debug\net7.0\Day1.pdb
+C:\Develop\shizngiggles\AoC22\Day1\obj\Debug\net7.0\Day1.csproj.AssemblyReference.cache
+C:\Develop\shizngiggles\AoC22\Day1\obj\Debug\net7.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Develop\shizngiggles\AoC22\Day1\obj\Debug\net7.0\Day1.AssemblyInfoInputs.cache
+C:\Develop\shizngiggles\AoC22\Day1\obj\Debug\net7.0\Day1.AssemblyInfo.cs
+C:\Develop\shizngiggles\AoC22\Day1\obj\Debug\net7.0\Day1.csproj.CoreCompileInputs.cache
+C:\Develop\shizngiggles\AoC22\Day1\obj\Debug\net7.0\Day1.dll
+C:\Develop\shizngiggles\AoC22\Day1\obj\Debug\net7.0\refint\Day1.dll
+C:\Develop\shizngiggles\AoC22\Day1\obj\Debug\net7.0\Day1.pdb
+C:\Develop\shizngiggles\AoC22\Day1\obj\Debug\net7.0\Day1.genruntimeconfig.cache
+C:\Develop\shizngiggles\AoC22\Day1\obj\Debug\net7.0\ref\Day1.dll
+C:\Develop\shizngiggles\AoC22\Day1\bin\Debug\net7.0\input.txt

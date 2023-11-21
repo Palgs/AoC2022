@@ -1,0 +1,15 @@
+C:\Develop\shizngiggles\AoC22\Day4\bin\Debug\net7.0\Day4.exe
+C:\Develop\shizngiggles\AoC22\Day4\bin\Debug\net7.0\Day4.deps.json
+C:\Develop\shizngiggles\AoC22\Day4\bin\Debug\net7.0\Day4.runtimeconfig.json
+C:\Develop\shizngiggles\AoC22\Day4\bin\Debug\net7.0\Day4.dll
+C:\Develop\shizngiggles\AoC22\Day4\bin\Debug\net7.0\Day4.pdb
+C:\Develop\shizngiggles\AoC22\Day4\obj\Debug\net7.0\Day4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Develop\shizngiggles\AoC22\Day4\obj\Debug\net7.0\Day4.AssemblyInfoInputs.cache
+C:\Develop\shizngiggles\AoC22\Day4\obj\Debug\net7.0\Day4.AssemblyInfo.cs
+C:\Develop\shizngiggles\AoC22\Day4\obj\Debug\net7.0\Day4.csproj.CoreCompileInputs.cache
+C:\Develop\shizngiggles\AoC22\Day4\obj\Debug\net7.0\Day4.dll
+C:\Develop\shizngiggles\AoC22\Day4\obj\Debug\net7.0\refint\Day4.dll
+C:\Develop\shizngiggles\AoC22\Day4\obj\Debug\net7.0\Day4.pdb
+C:\Develop\shizngiggles\AoC22\Day4\obj\Debug\net7.0\Day4.genruntimeconfig.cache
+C:\Develop\shizngiggles\AoC22\Day4\obj\Debug\net7.0\ref\Day4.dll
+C:\Develop\shizngiggles\AoC22\Day4\bin\Debug\net7.0\input.txt

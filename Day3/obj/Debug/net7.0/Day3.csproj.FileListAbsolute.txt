@@ -1,0 +1,16 @@
+C:\Develop\shizngiggles\AoC22\Day3\bin\Debug\net7.0\Day3.exe
+C:\Develop\shizngiggles\AoC22\Day3\bin\Debug\net7.0\input.txt
+C:\Develop\shizngiggles\AoC22\Day3\bin\Debug\net7.0\Day3.deps.json
+C:\Develop\shizngiggles\AoC22\Day3\bin\Debug\net7.0\Day3.runtimeconfig.json
+C:\Develop\shizngiggles\AoC22\Day3\bin\Debug\net7.0\Day3.dll
+C:\Develop\shizngiggles\AoC22\Day3\bin\Debug\net7.0\Day3.pdb
+C:\Develop\shizngiggles\AoC22\Day3\obj\Debug\net7.0\Day3.csproj.AssemblyReference.cache
+C:\Develop\shizngiggles\AoC22\Day3\obj\Debug\net7.0\Day3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Develop\shizngiggles\AoC22\Day3\obj\Debug\net7.0\Day3.AssemblyInfoInputs.cache
+C:\Develop\shizngiggles\AoC22\Day3\obj\Debug\net7.0\Day3.AssemblyInfo.cs
+C:\Develop\shizngiggles\AoC22\Day3\obj\Debug\net7.0\Day3.csproj.CoreCompileInputs.cache
+C:\Develop\shizngiggles\AoC22\Day3\obj\Debug\net7.0\Day3.dll
+C:\Develop\shizngiggles\AoC22\Day3\obj\Debug\net7.0\refint\Day3.dll
+C:\Develop\shizngiggles\AoC22\Day3\obj\Debug\net7.0\Day3.pdb
+C:\Develop\shizngiggles\AoC22\Day3\obj\Debug\net7.0\Day3.genruntimeconfig.cache
+C:\Develop\shizngiggles\AoC22\Day3\obj\Debug\net7.0\ref\Day3.dll
