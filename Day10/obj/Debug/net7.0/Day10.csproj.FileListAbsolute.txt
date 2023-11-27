@@ -1,0 +1,15 @@
+C:\Develop\shizngiggles\AoC22\Day10\bin\Debug\net7.0\Day10.exe
+C:\Develop\shizngiggles\AoC22\Day10\bin\Debug\net7.0\input.txt
+C:\Develop\shizngiggles\AoC22\Day10\bin\Debug\net7.0\Day10.deps.json
+C:\Develop\shizngiggles\AoC22\Day10\bin\Debug\net7.0\Day10.runtimeconfig.json
+C:\Develop\shizngiggles\AoC22\Day10\bin\Debug\net7.0\Day10.dll
+C:\Develop\shizngiggles\AoC22\Day10\bin\Debug\net7.0\Day10.pdb
+C:\Develop\shizngiggles\AoC22\Day10\obj\Debug\net7.0\Day10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Develop\shizngiggles\AoC22\Day10\obj\Debug\net7.0\Day10.AssemblyInfoInputs.cache
+C:\Develop\shizngiggles\AoC22\Day10\obj\Debug\net7.0\Day10.AssemblyInfo.cs
+C:\Develop\shizngiggles\AoC22\Day10\obj\Debug\net7.0\Day10.csproj.CoreCompileInputs.cache
+C:\Develop\shizngiggles\AoC22\Day10\obj\Debug\net7.0\Day10.dll
+C:\Develop\shizngiggles\AoC22\Day10\obj\Debug\net7.0\refint\Day10.dll
+C:\Develop\shizngiggles\AoC22\Day10\obj\Debug\net7.0\Day10.pdb
+C:\Develop\shizngiggles\AoC22\Day10\obj\Debug\net7.0\Day10.genruntimeconfig.cache
+C:\Develop\shizngiggles\AoC22\Day10\obj\Debug\net7.0\ref\Day10.dll
