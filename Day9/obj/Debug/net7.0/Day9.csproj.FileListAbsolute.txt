@@ -1,0 +1,15 @@
+C:\Develop\shizngiggles\AoC22\Day9\bin\Debug\net7.0\Day9.exe
+C:\Develop\shizngiggles\AoC22\Day9\bin\Debug\net7.0\Day9.deps.json
+C:\Develop\shizngiggles\AoC22\Day9\bin\Debug\net7.0\Day9.runtimeconfig.json
+C:\Develop\shizngiggles\AoC22\Day9\bin\Debug\net7.0\Day9.dll
+C:\Develop\shizngiggles\AoC22\Day9\bin\Debug\net7.0\Day9.pdb
+C:\Develop\shizngiggles\AoC22\Day9\obj\Debug\net7.0\Day9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Develop\shizngiggles\AoC22\Day9\obj\Debug\net7.0\Day9.AssemblyInfoInputs.cache
+C:\Develop\shizngiggles\AoC22\Day9\obj\Debug\net7.0\Day9.AssemblyInfo.cs
+C:\Develop\shizngiggles\AoC22\Day9\obj\Debug\net7.0\Day9.csproj.CoreCompileInputs.cache
+C:\Develop\shizngiggles\AoC22\Day9\obj\Debug\net7.0\Day9.dll
+C:\Develop\shizngiggles\AoC22\Day9\obj\Debug\net7.0\refint\Day9.dll
+C:\Develop\shizngiggles\AoC22\Day9\obj\Debug\net7.0\Day9.pdb
+C:\Develop\shizngiggles\AoC22\Day9\obj\Debug\net7.0\Day9.genruntimeconfig.cache
+C:\Develop\shizngiggles\AoC22\Day9\obj\Debug\net7.0\ref\Day9.dll
+C:\Develop\shizngiggles\AoC22\Day9\bin\Debug\net7.0\input.txt
